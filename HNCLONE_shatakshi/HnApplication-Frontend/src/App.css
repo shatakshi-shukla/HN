@@ -1,0 +1,10 @@
+.app{
+  margin: 30px;
+}
+
+.list{
+  position: relative;
+  padding-left: 15px;
+  vertical-align: inherit;
+  align-self: center;
+}

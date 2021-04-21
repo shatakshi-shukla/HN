@@ -1,0 +1,9 @@
+.list{
+   position: relative;
+   padding-left: 15px;
+   vertical-align: inherit;
+}
+
+.info{
+    padding-top: 0px;
+}

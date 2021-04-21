@@ -1,0 +1,28 @@
+.navbar{
+  color: white;
+  width: 90%;
+  max-width: 1280px;
+  margin: 8px auto;
+  background-color:orange;
+  padding: 6px;
+  line-height: 10px;
+  vertical-align: middle;
+  position: relative;
+  font-size: 13.3333px;
+  font-family: Verdana, Geneva, sans-serif;
+  border-spacing: 5px;
+  text-indent: initial;
+  padding-bottom: 8px;
+}
+.logo{
+      height: auto;
+      width: auto;
+      max-height: 30px;
+      max-width: 50px;
+  }
+
+.login{
+  float:right;
+  vertical-align: middle;
+  border-spacing: 5px;
+}
